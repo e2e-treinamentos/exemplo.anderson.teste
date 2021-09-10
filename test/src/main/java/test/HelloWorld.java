@@ -12,5 +12,7 @@ public class HelloWorld {
 		
 		System.out.println(idade);
 		
+		String nome = "Anderson";
+		
 	}
 }
