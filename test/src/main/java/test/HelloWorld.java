@@ -8,5 +8,9 @@ public class HelloWorld {
 		
 		System.out.println("Hello world");
 		
+		int idade = 18;
+		
+		System.out.println(idade);
+		
 	}
 }
